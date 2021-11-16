@@ -136,3 +136,4 @@ Received Import Request.
   path: Assets/AllIn1SpriteShader
   artifactKey: Guid(e648c4137150c7c43a7690820452ee95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/AllIn1SpriteShader using Guid(e648c4137150c7c43a7690820452ee95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b644a0978945742fa030049f9613fda') in 0.008789 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
