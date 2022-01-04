@@ -35,3 +35,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.log
+*.log
+*.log
+Comp3013GraphicalPrototype/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Comp3013GraphicalPrototype/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+Comp3013GraphicalPrototype/Logs/shadercompiler-UnityShaderCompiler.exe4.log
