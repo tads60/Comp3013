@@ -8,6 +8,8 @@ public class BasicCharMove : MonoBehaviour
     public GameObject character;
     public float movementModifier;
     public float jumpModifier;
+    public int health;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -55,6 +57,21 @@ public class BasicCharMove : MonoBehaviour
                 character.transform.position = Vector2.Lerp(transform.position, newPos, 1f);
             }
             //jumpCode
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.tag == "Enemy")
+        {
+
+            health -= 1;
+            col.gameObject.GetComponent<EnemyMovement>().dead = true;
+        }
+
+        if (col.gameObject.tag == "EnemyKillBox")
+        {
+            col.gameObject.transform.parent.GetComponent<EnemyMovement>().dead = true;
         }
     }
 }
