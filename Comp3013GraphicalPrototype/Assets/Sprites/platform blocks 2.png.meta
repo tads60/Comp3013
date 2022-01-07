@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 022f9ffeadb8f25409cd047ea840d92c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4537290093782990943
+    second: platform blocks 2_0
+  - first:
+      213: -2831243326684657944
+    second: platform blocks 2_1
+  - first:
+      213: -5870683678154607422
+    second: platform blocks 2_2
+  - first:
+      213: 1868448960460795005
+    second: platform blocks 2_3
+  - first:
+      213: 9038622359376367154
+    second: platform blocks 2_4
+  - first:
+      213: 8560857483903008464
+    second: platform blocks 2_5
+  - first:
+      213: -2024994125628095814
+    second: platform blocks 2_6
+  - first:
+      213: 7210790287811789263
+    second: platform blocks 2_7
+  - first:
+      213: 3198779153720450618
+    second: platform blocks 2_8
+  - first:
+      213: 4078105785853141265
+    second: platform blocks 2_9
+  - first:
+      213: 2330515305591240759
+    second: platform blocks 2_10
+  - first:
+      213: 8597439054851990860
+    second: platform blocks 2_11
+  - first:
+      213: -5849721208239302751
+    second: platform blocks 2_12
+  - first:
+      213: -4281150055222349329
+    second: platform blocks 2_13
+  - first:
+      213: -3933513537730387612
+    second: platform blocks 2_14
+  - first:
+      213: 6942600708104464033
+    second: platform blocks 2_15
+  - first:
+      213: 9071300102504099533
+    second: platform blocks 2_16
+  - first:
+      213: 176507665171336456
+    second: platform blocks 2_17
+  - first:
+      213: -2864094226615782466
+    second: platform blocks 2_18
+  - first:
+      213: -4882186196186094615
+    second: platform blocks 2_19
+  - first:
+      213: 5875705026042794582
+    second: platform blocks 2_20
+  - first:
+      213: 3351544012450879685
+    second: platform blocks 2_21
+  - first:
+      213: 8293629180494072722
+    second: platform blocks 2_22
+  - first:
+      213: -558028937487687645
+    second: platform blocks 2_23
+  - first:
+      213: 3860725012221806854
+    second: platform blocks 2_24
+  - first:
+      213: -8112169449422996728
+    second: platform blocks 2_25
+  - first:
+      213: 8898556868185150331
+    second: platform blocks 2_26
+  - first:
+      213: 9006381273352577037
+    second: platform blocks 2_27
+  - first:
+      213: 4311208414874803752
+    second: platform blocks 2_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platform blocks 2_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 956
+        width: 216
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5085dafc41b7fe30800000000000000
+      internalID: 4537290093782990943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 988
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e60448e13765b8d0800000000000000
+      internalID: -2831243326684657944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_2
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 831
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c439e68c44278ea0800000000000000
+      internalID: -5870683678154607422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 953
+        width: 216
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ca6391e601ee910800000000000000
+      internalID: 1868448960460795005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_4
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 824
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e088da523af6d70800000000000000
+      internalID: 9038622359376367154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_5
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 764
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de78c436864ec670800000000000000
+      internalID: 8560857483903008464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_6
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 764
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab24fa55296c5e3e0800000000000000
+      internalID: -2024994125628095814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 861
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1cbd6ff8fd11460800000000000000
+      internalID: 7210790287811789263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 957
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e9e6441b8546c20800000000000000
+      internalID: 3198779153720450618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 954
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ed320b97589830800000000000000
+      internalID: 4078105785853141265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 849
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7387065a257a75020800000000000000
+      internalID: 2330515305591240759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 795
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e58ae44d305770800000000000000
+      internalID: 8597439054851990860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 891
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d3d3ed8d91dea0800000000000000
+      internalID: -5849721208239302751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 888
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f35015bc4694c0800000000000000
+      internalID: -4281150055222349329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 850
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e360374a5969c0800000000000000
+      internalID: -3933513537730387612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_15
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 457
+        width: 496
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a621ff7f82195060800000000000000
+      internalID: 6942600708104464033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 305
+        width: 206
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea8b4a16bb3ed70800000000000000
+      internalID: 9071300102504099533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 343
+        width: 358
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dcbaa49c4137200800000000000000
+      internalID: 176507665171336456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_18
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 344
+        width: 358
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b15bb971b048d0800000000000000
+      internalID: -2864094226615782466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_19
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 270
+        width: 218
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32301858dfe3cb0800000000000000
+      internalID: -4882186196186094615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_20
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 26
+        width: 496
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65212422792ba8150800000000000000
+      internalID: 5875705026042794582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 242
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d837a583138e20800000000000000
+      internalID: 3351544012450879685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc9225cc3e81370800000000000000
+      internalID: 8293629180494072722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 275
+        width: 216
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32068ae43ab7148f0800000000000000
+      internalID: -558028937487687645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 275
+        width: 216
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60942f091fc049530800000000000000
+      internalID: 3860725012221806854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 24
+        width: 232
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bbd59add8cb6f80800000000000000
+      internalID: -8112169449422996728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 68
+        width: 320
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d9c533560e7b70800000000000000
+      internalID: 8898556868185150331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_27
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 67
+        width: 320
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0029eddc081dfc70800000000000000
+      internalID: 9006381273352577037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform blocks 2_28
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 29
+        width: 232
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9949263d74db30800000000000000
+      internalID: 4311208414874803752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
