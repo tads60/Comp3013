@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 457934f8bd5c69747947d8bc3cf8211a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5117305950871886292
+    second: enemy and goal assets_0
+  - first:
+      213: -7521087713965795199
+    second: enemy and goal assets_1
+  - first:
+      213: 2609854814631150559
+    second: enemy and goal assets_2
+  - first:
+      213: 7365914891130050085
+    second: enemy and goal assets_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy and goal assets_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 783
+        width: 303
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 145.5}
+        - {x: -41.5, y: 145.5}
+        - {x: -151.5, y: 49.5}
+        - {x: -151.5, y: -145.5}
+        - {x: 151.5, y: -145.5}
+        - {x: 151.5, y: 111.5}
+        - {x: 150.5, y: 122.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d916b056a2540740800000000000000
+      internalID: 5117305950871886292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy and goal assets_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 629
+        width: 591
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158.5, y: -200.5}
+        - {x: 158.5, y: -202.5}
+        - {x: 164.5, y: -202.5}
+        - {x: 164.5, y: -200.5}
+        - {x: 162.5, y: -198.5}
+        - {x: 160.5, y: -198.5}
+      - - {x: 5.5, y: 202.5}
+        - {x: -210.5, y: 202.5}
+        - {x: -276.5, y: 159.5}
+        - {x: -295.5, y: 100.5}
+        - {x: -295.5, y: 11.5}
+        - {x: -277.5, y: -33.5}
+        - {x: -257.5, y: -48.5}
+        - {x: 49.5, y: -107.5}
+        - {x: 55.5, y: -107.5}
+        - {x: 101.5, y: -148.5}
+        - {x: 184.5, y: -148.5}
+        - {x: 293.5, y: -113.5}
+        - {x: 295.5, y: -97.5}
+        - {x: 295.5, y: 118.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1889384929abf9790800000000000000
+      internalID: -7521087713965795199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy and goal assets_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 466
+        width: 303
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3ce655021183420800000000000000
+      internalID: 2609854814631150559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy and goal assets_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 109
+        width: 209
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261193319cf83660800000000000000
+      internalID: 7365914891130050085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
