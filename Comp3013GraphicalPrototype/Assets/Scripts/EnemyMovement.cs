@@ -13,17 +13,30 @@ public class EnemyMovement : MonoBehaviour
     public bool dead = false;
     public GameObject player;
     [SerializeField] float playerCloseness;
+    [SerializeField] float playerCloseness2;
+    private GameObject eventSystem;
     public float closenessFactor;
+    public bool isColoured = false;
+    private SpriteRenderer sprites;
+    [SerializeField] Sprite newSprite;
 
     // Start is called before the first frame update
     void Start()
     {
         movementModifier = movementModifier / 500;
+        player = GameObject.Find("Character");
+        eventSystem = GameObject.Find("EventSystem");
+        sprites = gameObject.GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(!isColoured)
+        {
+            colourCheck();
+        }
+
         closeCheck();
 
         if (isActive)
@@ -48,12 +61,17 @@ public class EnemyMovement : MonoBehaviour
     void closeCheck()
     {
         playerCloseness = player.transform.position.x - enemy.transform.position.x;
-        if (playerCloseness < closenessFactor && playerCloseness > 0)
+        playerCloseness2 = player.transform.position.y - enemy.transform.position.y;
+        if(playerCloseness2 <= 0)
+        {
+            playerCloseness2 = playerCloseness2 * -1;
+        }
+        if (playerCloseness < closenessFactor && playerCloseness > 0 && playerCloseness2 < 1.5)
         {
             isActive = true;
             isLeft = false;
         }
-        else if (playerCloseness < 0 && playerCloseness > -closenessFactor)
+        else if (playerCloseness < 0 && playerCloseness > -closenessFactor && playerCloseness2 < 1.5)
         {
             isActive = true;
             isLeft = true;
@@ -86,5 +104,14 @@ public class EnemyMovement : MonoBehaviour
 
         enemy.transform.position = Vector2.Lerp(transform.position, newPos, 1f);
         enemy.transform.GetComponent<SpriteRenderer>().flipX = true;
+    }
+
+    void colourCheck()
+    {
+        if (eventSystem.GetComponent<EventScript>().isColoured)
+        {
+            isColoured = true;
+            sprites.sprite = newSprite;
+        }
     }
 }

@@ -10,6 +10,7 @@ TagManager:
   - Hazard
   - Coin
   - Steps
+  - ColourChanger
   layers:
   - Default
   - TransparentFX

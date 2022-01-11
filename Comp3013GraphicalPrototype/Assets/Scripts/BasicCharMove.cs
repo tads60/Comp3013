@@ -15,16 +15,25 @@ public class BasicCharMove : MonoBehaviour
     public int score;
     public Rigidbody2D characterBody;
     public float fallThresh = 0.0f;
+    private GameObject eventSystem;
+    public bool isColoured = false;
+    private SpriteRenderer sprites;
+    [SerializeField] Sprite newSprite;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        eventSystem = GameObject.Find("EventSystem");
+        sprites = gameObject.GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (!isColoured)
+        {
+            colourCheck();
+        }
         fallingCheck();
         if (Input.GetButton("Right"))
         {
@@ -52,7 +61,7 @@ public class BasicCharMove : MonoBehaviour
         newPos.z = transform.position.z;
 
         character.transform.position = Vector2.Lerp(transform.position, newPos, 1f);
-        character.transform.GetComponent<SpriteRenderer>().flipX = true;
+        sprites.flipX = true;
     }
 
     void moveRight()
@@ -66,30 +75,16 @@ public class BasicCharMove : MonoBehaviour
         newPos.z = transform.position.z;
 
         character.transform.position = Vector2.Lerp(transform.position, newPos, 1f);
-        character.transform.GetComponent<SpriteRenderer>().flipX = false;
+        sprites.flipX = false;
     }
     void jump()
     {
         if (!isfalling)
         {
-            //Vector3 newPos;
-            //newPos.x = transform.position.x;
-            //newPos.y = transform.position.y + jumpModifier;
-            //newPos.z = transform.position.z;
-
-            //character.transform.position = Vector2.Lerp(transform.position, newPos, 1f);
-            //jumpCode
-
             characterBody.velocity = new Vector3(0, jumpModifier, 0);
         }
         else if (isfalling && !hasDoubleJumped && canDoubleJump)
         {
-            //Vector3 newPos;
-            //newPos.x = transform.position.x;
-            //newPos.y = transform.position.y + jumpModifier;
-            //newPos.z = transform.position.z;
-
-            //character.transform.position = Vector2.Lerp(transform.position, newPos, 1f);
             characterBody.velocity = new Vector3(0, jumpModifier, 0);
             hasDoubleJumped = true;
         }
@@ -136,16 +131,18 @@ public class BasicCharMove : MonoBehaviour
             score += 1;
             col.gameObject.SetActive(false);
         }
-        //if (col.gameObject.tag == "Steps")
-        //{
-          //  movementModifier = movementModifier / 2;
-        //}
+        if(col.gameObject.tag == "ColourChanger")
+        {
+            col.gameObject.SetActive(false);
+        }
     }
-    //void OnCollisionExit2D(Collision2D col)
-    //{
-      //  if (col.gameObject.tag == "Steps")
-        //{
-          //  movementModifier = movementModifier * 2;
-       // }
-    //}
+
+    void colourCheck()
+    {
+        if (eventSystem.GetComponent<EventScript>().isColoured)
+        {
+            isColoured = true;
+            sprites.sprite = newSprite;
+        }
+    }
 }
