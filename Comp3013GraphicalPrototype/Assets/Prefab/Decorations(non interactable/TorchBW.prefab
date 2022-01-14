@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 971929454293212885}
   - component: {fileID: 971929454293212886}
+  - component: {fileID: -1975121134602946440}
   m_Layer: 0
   m_Name: TorchBW
   m_TagString: Untagged
@@ -72,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 3
   m_Sprite: {fileID: -4436473219659738458, guid: 111003465c56ccc41ae8b34e37837eda, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -84,6 +85,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &-1975121134602946440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 971929454293212887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac8c87542aac0f141a07f1037007467a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isColoured: 0
+  newSprite: {fileID: 8597439054851990860, guid: 022f9ffeadb8f25409cd047ea840d92c, type: 3}
 --- !u!1 &8754384790412691141
 GameObject:
   m_ObjectHideFlags: 0
@@ -94,6 +109,7 @@ GameObject:
   m_Component:
   - component: {fileID: 185416029460852437}
   - component: {fileID: 5802058990690371732}
+  - component: {fileID: 6085454524029223797}
   m_Layer: 0
   m_Name: Light
   m_TagString: Untagged
@@ -177,3 +193,16 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &6085454524029223797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8754384790412691141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98f938de64646d4792e1b699e6250ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isColoured: 0

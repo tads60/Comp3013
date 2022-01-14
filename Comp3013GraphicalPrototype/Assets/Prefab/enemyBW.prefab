@@ -160,7 +160,10 @@ MonoBehaviour:
   dead: 0
   player: {fileID: 0}
   playerCloseness: 0
+  playerCloseness2: 0
   closenessFactor: 5
+  isColoured: 0
+  newSprite: {fileID: 8637177199144103859, guid: 710ab75cce29a9948922a91ca115ee61, type: 3}
 --- !u!1 &6573918682571250098
 GameObject:
   m_ObjectHideFlags: 0

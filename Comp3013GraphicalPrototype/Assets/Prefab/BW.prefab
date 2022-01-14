@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4019730246017516618}
   - component: {fileID: 4019730246017516619}
   - component: {fileID: 4019730246017516620}
+  - component: {fileID: 2083894809145379351}
   m_Layer: 0
   m_Name: BW
   m_TagString: LethalHazard
@@ -132,3 +133,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 7
+--- !u!114 &2083894809145379351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4019730246017516621}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac8c87542aac0f141a07f1037007467a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isColoured: 0
+  newSprite: {fileID: 9006381273352577037, guid: 022f9ffeadb8f25409cd047ea840d92c, type: 3}
