@@ -19,10 +19,12 @@ public class BasicCharMove : MonoBehaviour
     public bool isColoured = false;
     private SpriteRenderer sprites;
     [SerializeField] Sprite newSprite;
+    private GameObject healthBar;
 
     // Start is called before the first frame update
     void Start()
     {
+        healthBar = GameObject.Find("HealthBar");
         eventSystem = GameObject.Find("EventSystem");
         sprites = gameObject.GetComponent<SpriteRenderer>();
     }
@@ -47,6 +49,26 @@ public class BasicCharMove : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
         {
             jump();
+        }
+        if (health == 4)
+        {
+            healthBar.GetComponent<HealthBarScript>().FourHP();
+        }
+        if (health == 3)
+        {
+            healthBar.GetComponent<HealthBarScript>().ThreeHP();
+        }
+        if (health == 2)
+        {
+            healthBar.GetComponent<HealthBarScript>().TwoHP();
+        }
+        if (health == 1)
+        {
+            healthBar.GetComponent<HealthBarScript>().OneHP();
+        }
+        if (health < 1)
+        {
+            eventSystem.GetComponent<EventScript>().GameOver();
         }
     }
 
