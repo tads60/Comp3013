@@ -1,0 +1,1013 @@
+fileFormatVersion: 2
+guid: 04e38de8d468658488af44b4d362d025
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6239637727421465223
+    second: street assets_0
+  - first:
+      213: -3867322496885816264
+    second: street assets_1
+  - first:
+      213: -3271350789310005624
+    second: street assets_2
+  - first:
+      213: 7706524209078154744
+    second: street assets_3
+  - first:
+      213: 473462242098306180
+    second: street assets_4
+  - first:
+      213: 8474451789127600131
+    second: street assets_5
+  - first:
+      213: -5949020509965085560
+    second: street assets_6
+  - first:
+      213: 2293493254094404697
+    second: street assets_7
+  - first:
+      213: -2309036879865827981
+    second: street assets_8
+  - first:
+      213: -1790540236532322697
+    second: street assets_9
+  - first:
+      213: -6334634995159130434
+    second: street assets_10
+  - first:
+      213: 9033337185714165484
+    second: street assets_11
+  - first:
+      213: -1280473535337911657
+    second: street assets_12
+  - first:
+      213: -6811494915673215506
+    second: street assets_13
+  - first:
+      213: 8851855246710508042
+    second: street assets_14
+  - first:
+      213: -1384593732674644872
+    second: street assets_15
+  - first:
+      213: 813512894097217847
+    second: street assets_16
+  - first:
+      213: 2559457210370842206
+    second: street assets_17
+  - first:
+      213: -2782301543584473000
+    second: street assets_18
+  - first:
+      213: -6336387345628287612
+    second: street assets_19
+  - first:
+      213: 6880103099324188583
+    second: street assets_20
+  - first:
+      213: -682146316522401053
+    second: street assets_21
+  - first:
+      213: 5325876067621920359
+    second: street assets_22
+  - first:
+      213: 2936742382174769163
+    second: street assets_23
+  - first:
+      213: -4246303059618439890
+    second: street assets_24
+  - first:
+      213: 9055013752528821371
+    second: street assets_25
+  - first:
+      213: -7788541893913245062
+    second: street assets_26
+  - first:
+      213: 8245580525957186616
+    second: street assets_27
+  - first:
+      213: 176275187423137764
+    second: street assets_28
+  - first:
+      213: 5053262583766873269
+    second: street assets_29
+  - first:
+      213: 8273982669993784749
+    second: street assets_30
+  - first:
+      213: -4537025879034641454
+    second: street assets_31
+  - first:
+      213: -8411609362368777471
+    second: street assets_32
+  - first:
+      213: 7868832424241413611
+    second: street assets_33
+  - first:
+      213: 1440587064964236674
+    second: street assets_34
+  - first:
+      213: 1892680091443555011
+    second: street assets_35
+  - first:
+      213: 4293549617737649323
+    second: street assets_36
+  - first:
+      213: 8215035526825567616
+    second: street assets_37
+  - first:
+      213: 5011343313248388688
+    second: street assets_38
+  - first:
+      213: 2333071326161749078
+    second: street assets_39
+  - first:
+      213: 6386384058457630800
+    second: street assets_40
+  - first:
+      213: 2854150326291885228
+    second: street assets_41
+  - first:
+      213: -6051769621567299090
+    second: street assets_42
+  - first:
+      213: -838449452527725785
+    second: street assets_43
+  - first:
+      213: -1976039236130634761
+    second: street assets_44
+  - first:
+      213: 6143023029792603415
+    second: street assets_45
+  - first:
+      213: 5966453888466099294
+    second: street assets_46
+  - first:
+      213: -3834318209991094687
+    second: street assets_47
+  - first:
+      213: -1810032340402578071
+    second: street assets_48
+  - first:
+      213: -8831046227054001271
+    second: street assets_49
+  - first:
+      213: 9165344964521382295
+    second: street assets_50
+  - first:
+      213: 8147288364823371442
+    second: street assets_51
+  - first:
+      213: 1725966910055394622
+    second: street assets_52
+  - first:
+      213: 5143032510087273192
+    second: street assets_53
+  - first:
+      213: 4829055975434093170
+    second: street assets_54
+  - first:
+      213: 9169079107498927346
+    second: street assets_55
+  - first:
+      213: 7493633134536548318
+    second: street assets_56
+  - first:
+      213: -4947516985196726623
+    second: street assets_57
+  - first:
+      213: 5243692576147127835
+    second: street assets_58
+  - first:
+      213: -9201640925844885992
+    second: street assets_59
+  - first:
+      213: -8077603089988182198
+    second: street assets_60
+  - first:
+      213: 1139440208907949715
+    second: street assets_61
+  - first:
+      213: -5734123684359763291
+    second: street assets_62
+  - first:
+      213: -8772481641814068274
+    second: street assets_63
+  - first:
+      213: -1493096442244218573
+    second: street assets_64
+  - first:
+      213: -7760729690920385824
+    second: street assets_65
+  - first:
+      213: 7195631003449359687
+    second: street assets_66
+  - first:
+      213: 2435054047563361044
+    second: street assets_67
+  - first:
+      213: -4147710959268143110
+    second: street assets_68
+  - first:
+      213: -2977548335145752024
+    second: street assets_69
+  - first:
+      213: 2905106060427694076
+    second: street assets_70
+  - first:
+      213: -4340490275978828902
+    second: street assets_71
+  - first:
+      213: -3975478657826843198
+    second: street assets_72
+  - first:
+      213: -7499547156590668505
+    second: street assets_73
+  - first:
+      213: -8948894257561100038
+    second: street assets_74
+  - first:
+      213: -829479402933352979
+    second: street assets_75
+  - first:
+      213: 6015005611765783430
+    second: street assets_76
+  - first:
+      213: 6986820421359769103
+    second: street assets_77
+  - first:
+      213: 5108355210260334342
+    second: street assets_78
+  - first:
+      213: 3899887857179792949
+    second: street assets_79
+  - first:
+      213: 1945804666745931826
+    second: street assets_80
+  - first:
+      213: 5152508358766539552
+    second: street assets_81
+  - first:
+      213: 885047231763145898
+    second: street assets_82
+  - first:
+      213: -5721858822826896715
+    second: street assets_83
+  - first:
+      213: -3563949041923278290
+    second: street assets_84
+  - first:
+      213: -4124519690486863882
+    second: street assets_85
+  - first:
+      213: 5382445955923095891
+    second: street assets_86
+  - first:
+      213: -8363606287896139838
+    second: street assets_87
+  - first:
+      213: -7424950096702165697
+    second: street assets_88
+  - first:
+      213: 8856986643716260046
+    second: street assets_89
+  - first:
+      213: -7154751639924716463
+    second: street assets_90
+  - first:
+      213: -4171856212484218125
+    second: street assets_91
+  - first:
+      213: -7003793135685180659
+    second: street assets_92
+  - first:
+      213: -976287567131690409
+    second: street assets_93
+  - first:
+      213: 6250322205528879573
+    second: street assets_94
+  - first:
+      213: 3709458655275168055
+    second: street assets_95
+  - first:
+      213: -1080249696037701129
+    second: street assets_96
+  - first:
+      213: -3542405119987344739
+    second: street assets_97
+  - first:
+      213: 5855791142358844154
+    second: street assets_98
+  - first:
+      213: -1372354499761771504
+    second: street assets_99
+  - first:
+      213: -4445475104761612774
+    second: street assets_100
+  - first:
+      213: 1713385785278459841
+    second: street assets_101
+  - first:
+      213: 6166589819172761138
+    second: street assets_102
+  - first:
+      213: -412702898652735743
+    second: street assets_103
+  - first:
+      213: -233594235002418953
+    second: street assets_104
+  - first:
+      213: 7091107363493927809
+    second: street assets_105
+  - first:
+      213: -7580083258082362899
+    second: street assets_106
+  - first:
+      213: 7932743182666773776
+    second: street assets_107
+  - first:
+      213: -4285375546545653648
+    second: street assets_108
+  - first:
+      213: -5375757960069894188
+    second: street assets_109
+  - first:
+      213: 4069248889013404181
+    second: street assets_110
+  - first:
+      213: -7547216250450453330
+    second: street assets_111
+  - first:
+      213: 4581520879038000833
+    second: street assets_112
+  - first:
+      213: 805238794253067680
+    second: street assets_113
+  - first:
+      213: 8450934987189852529
+    second: street assets_114
+  - first:
+      213: -5708252742600028726
+    second: street assets_115
+  - first:
+      213: -479510925142345746
+    second: street assets_116
+  - first:
+      213: 7680342149808230402
+    second: street assets_117
+  - first:
+      213: -8560425398284279765
+    second: street assets_118
+  - first:
+      213: 829799559125100096
+    second: street assets_119
+  - first:
+      213: -4501130040702387524
+    second: street assets_120
+  - first:
+      213: 520565991006220887
+    second: street assets_121
+  - first:
+      213: 8165369185390836661
+    second: street assets_122
+  - first:
+      213: -1215712368701013566
+    second: street assets_123
+  - first:
+      213: 3119133424266783791
+    second: street assets_124
+  - first:
+      213: 6139181422907300091
+    second: street assets_125
+  - first:
+      213: 7423567665825827493
+    second: street assets_126
+  - first:
+      213: -7089491822541660377
+    second: street assets_127
+  - first:
+      213: 8341507049174665260
+    second: street assets_128
+  - first:
+      213: -1256429025014073161
+    second: street assets_129
+  - first:
+      213: 3841032213600570055
+    second: street assets_130
+  - first:
+      213: 8194972812700529693
+    second: street assets_131
+  - first:
+      213: 477863791610443978
+    second: street assets_132
+  - first:
+      213: 7699265897807195703
+    second: street assets_133
+  - first:
+      213: -6671606410005690313
+    second: street assets_134
+  - first:
+      213: -8003939625453632567
+    second: street assets_135
+  - first:
+      213: 4323788675713085186
+    second: street assets_136
+  - first:
+      213: -4383131261488741399
+    second: street assets_137
+  - first:
+      213: -4860232779794486071
+    second: street assets_138
+  - first:
+      213: 7562536952705761238
+    second: street assets_139
+  - first:
+      213: -8727316058073805243
+    second: street assets_140
+  - first:
+      213: 5552921199377823729
+    second: street assets_141
+  - first:
+      213: 1872850728990185570
+    second: street assets_142
+  - first:
+      213: -7766004313720435970
+    second: street assets_143
+  - first:
+      213: 436183202041412480
+    second: street assets_144
+  - first:
+      213: -3626902685875885428
+    second: street assets_145
+  - first:
+      213: -5183519168919399127
+    second: street assets_146
+  - first:
+      213: 5244045628962337297
+    second: street assets_147
+  - first:
+      213: -985585065244257624
+    second: street assets_148
+  - first:
+      213: -7845026751768180419
+    second: street assets_149
+  - first:
+      213: 1447422007572382603
+    second: street assets_150
+  - first:
+      213: -8518532047401173094
+    second: street assets_151
+  - first:
+      213: -4248794947405714631
+    second: street assets_152
+  - first:
+      213: 3764055307492426158
+    second: street assets_153
+  - first:
+      213: 2680978635732250045
+    second: street assets_154
+  - first:
+      213: -3890887996539160244
+    second: street assets_155
+  - first:
+      213: -1545309686624518827
+    second: street assets_156
+  - first:
+      213: 7731701119645934080
+    second: street assets_157
+  - first:
+      213: -4432421117596101580
+    second: street assets_158
+  - first:
+      213: 3424731751753368459
+    second: street assets_159
+  - first:
+      213: 1402045953161541216
+    second: street assets_160
+  - first:
+      213: 3496588120885562749
+    second: street assets_161
+  - first:
+      213: 2037083878470660104
+    second: street assets_162
+  - first:
+      213: -7920724385968848416
+    second: street assets_163
+  - first:
+      213: 3330798736960028285
+    second: street assets_164
+  - first:
+      213: -1438420540163356351
+    second: street assets_165
+  - first:
+      213: -5811361627560453518
+    second: street assets_166
+  - first:
+      213: 732862431521027269
+    second: street assets_167
+  - first:
+      213: 125065392772855123
+    second: street assets_168
+  - first:
+      213: -2033023366727693287
+    second: street assets_169
+  - first:
+      213: -6006037768093905947
+    second: street assets_170
+  - first:
+      213: 7877813916019274507
+    second: street assets_171
+  - first:
+      213: -6094377162611446307
+    second: street assets_172
+  - first:
+      213: 2910390213737228492
+    second: street assets_173
+  - first:
+      213: 381745135583377812
+    second: street assets_174
+  - first:
+      213: 4443120893675610910
+    second: street assets_175
+  - first:
+      213: -6823751796666897943
+    second: street assets_176
+  - first:
+      213: -3158765627119651342
+    second: street assets_177
+  - first:
+      213: 233173236480715120
+    second: street assets_178
+  - first:
+      213: 6831497502002085243
+    second: street assets_179
+  - first:
+      213: 1605346231740760486
+    second: street assets_180
+  - first:
+      213: 75097076500656207
+    second: street assets_181
+  - first:
+      213: 9104364235443946381
+    second: street assets_182
+  - first:
+      213: -1300614902974168553
+    second: street assets_183
+  - first:
+      213: -606185020254981944
+    second: street assets_184
+  - first:
+      213: -926221270541591870
+    second: street assets_185
+  - first:
+      213: -1179050456665761883
+    second: street assets_186
+  - first:
+      213: 4094346549763180313
+    second: street assets_187
+  - first:
+      213: 813829440767141146
+    second: street assets_188
+  - first:
+      213: 511799346353404703
+    second: street assets_189
+  - first:
+      213: -5076947777615332465
+    second: street assets_190
+  - first:
+      213: 3988093713694111762
+    second: street assets_191
+  - first:
+      213: 1401222364749200251
+    second: street assets_192
+  - first:
+      213: 970029842353527001
+    second: street assets_193
+  - first:
+      213: -2901147200654542042
+    second: street assets_194
+  - first:
+      213: 8806471922095367655
+    second: street assets_195
+  - first:
+      213: -5457786394747420754
+    second: street assets_196
+  - first:
+      213: -1175479651796440113
+    second: street assets_197
+  - first:
+      213: 4046323653939073695
+    second: street assets_198
+  - first:
+      213: 7146698181017853297
+    second: street assets_199
+  - first:
+      213: -8963952966460786139
+    second: street assets_200
+  - first:
+      213: 5922470783009715203
+    second: street assets_201
+  - first:
+      213: 6504820179305407947
+    second: street assets_202
+  - first:
+      213: -4193947261633680936
+    second: street assets_203
+  - first:
+      213: 8341849687564187236
+    second: street assets_204
+  - first:
+      213: 6113373402498467183
+    second: street assets_205
+  - first:
+      213: -3325614566662657272
+    second: street assets_206
+  - first:
+      213: 8176936484315947488
+    second: street assets_207
+  - first:
+      213: -3193516168515482462
+    second: street assets_208
+  - first:
+      213: 7328724024998531591
+    second: street assets_209
+  - first:
+      213: -2995475184397544955
+    second: street assets_210
+  - first:
+      213: -5233933345540275698
+    second: street assets_211
+  - first:
+      213: 4478554707859752942
+    second: street assets_212
+  - first:
+      213: -4850987828409711395
+    second: street assets_213
+  - first:
+      213: 9185223025723200992
+    second: street assets_214
+  - first:
+      213: 645325735521915206
+    second: street assets_215
+  - first:
+      213: -3780743160735075981
+    second: street assets_216
+  - first:
+      213: -7824820134840702850
+    second: street assets_217
+  - first:
+      213: 7830341940418388498
+    second: street assets_218
+  - first:
+      213: -777257553271996662
+    second: street assets_219
+  - first:
+      213: -451923917135228554
+    second: street assets_220
+  - first:
+      213: -1402771553437046913
+    second: street assets_221
+  - first:
+      213: 5429118889602098597
+    second: street assets_222
+  - first:
+      213: 567514367123666356
+    second: street assets_223
+  - first:
+      213: -2652562297504533429
+    second: street assets_224
+  - first:
+      213: 5250468656070702901
+    second: street assets_225
+  - first:
+      213: 7110215751264582865
+    second: street assets_226
+  - first:
+      213: 3892052686452683761
+    second: street assets_227
+  - first:
+      213: 2495032188446313909
+    second: street assets_228
+  - first:
+      213: -7391614935298407975
+    second: street assets_229
+  - first:
+      213: 2948610746022919766
+    second: street assets_230
+  - first:
+      213: -3684657270953029465
+    second: street assets_231
+  - first:
+      213: -4759435063534998645
+    second: street assets_232
+  - first:
+      213: -7616693603490397275
+    second: street assets_233
+  - first:
+      213: -132534370524415930
+    second: street assets_234
+  - first:
+      213: 8438793821336650035
+    second: street assets_235
+  - first:
+      213: -2180528605719944444
+    second: street assets_236
+  - first:
+      213: 6246756153356010429
+    second: street assets_237
+  - first:
+      213: -8170860737602221656
+    second: street assets_238
+  - first:
+      213: -1489908007446558994
+    second: street assets_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street assets_0
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 24
+        width: 530
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 593, y: 242}
+        - {x: 425, y: 389}
+        - {x: 207, y: 385}
+        - {x: 199, y: 376}
+        - {x: 156, y: 321}
+        - {x: 75, y: -453}
+        - {x: 118, y: -531}
+        - {x: 309, y: -526}
+        - {x: 344, y: -457}
+        - {x: 585, y: 192}
+      - - {x: -562, y: -196}
+        - {x: -564, y: -198}
+        - {x: -564, y: -422}
+        - {x: -562, y: -424}
+        - {x: -359, y: -424}
+        - {x: -357, y: -422}
+        - {x: -357, y: -198}
+        - {x: -359, y: -196}
+      - - {x: -21, y: -225}
+        - {x: -74, y: -225}
+        - {x: -120, y: -241}
+        - {x: -121, y: -246}
+        - {x: -121, y: -424}
+        - {x: 41, y: -424}
+        - {x: 41, y: -271}
+        - {x: 37, y: -239}
+      - - {x: -558, y: -202}
+        - {x: -363, y: -202}
+        - {x: -363, y: -418}
+        - {x: -558, y: -418}
+      - - {x: -197, y: -390}
+        - {x: -179, y: -338}
+        - {x: -179, y: -276}
+        - {x: -186, y: -244}
+        - {x: -228, y: -220}
+        - {x: -274, y: -220}
+        - {x: -331, y: -245}
+        - {x: -341, y: -287}
+        - {x: -341, y: -417}
+        - {x: -337, y: -419}
+        - {x: -183, y: -419}
+        - {x: -179, y: -415}
+        - {x: -179, y: -402}
+        - {x: -183, y: -398}
+      - - {x: -848, y: 511}
+        - {x: -921, y: 203}
+        - {x: -921, y: -396}
+        - {x: -649, y: -396}
+        - {x: -414, y: 144}
+        - {x: -414, y: 403}
+        - {x: -573, y: 511}
+      - - {x: -374, y: 477}
+        - {x: 941, y: 477}
+        - {x: 941, y: 523}
+        - {x: -370, y: 523}
+        - {x: -374, y: 522}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dfae1cb8a5869a0800000000000000
+      internalID: -6239637727421465223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street assets_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 517
+        height: 924
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8348e35dda2845ac0800000000000000
+      internalID: -3867322496885816264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street assets_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 119
+        width: 177
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ebb7b1ac3d992d0800000000000000
+      internalID: -3271350789310005624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street assets_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 112
+        width: 163
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f53d0fefe213fa60800000000000000
+      internalID: 7706524209078154744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street assets_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1020
+        width: 1309
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c54d29663129600800000000000000
+      internalID: 473462242098306180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
