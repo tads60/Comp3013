@@ -20,6 +20,9 @@ TextureImporter:
   - first:
       213: 5583416655491988687
     second: BUTTONS!_5
+  - first:
+      213: -2947034311508567520
+    second: BUTTONS!_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -241,6 +244,27 @@ TextureImporter:
       name: BUTTONS!_5
       rect:
         serializedVersion: 2
+        x: 1181
+        y: 284
+        width: 681
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc799fadd74c7d40800000000000000
+      internalID: 5583416655491988687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUTTONS!_6
+      rect:
+        serializedVersion: 2
         x: 11
         y: 107
         width: 1079
@@ -252,8 +276,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcc799fadd74c7d40800000000000000
-      internalID: 5583416655491988687
+      spriteID: 02ad4a168e70a17d0800000000000000
+      internalID: -2947034311508567520
       vertices: []
       indices: 
       edges: []
