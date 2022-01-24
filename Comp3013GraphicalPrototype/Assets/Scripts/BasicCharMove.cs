@@ -160,8 +160,21 @@ public class BasicCharMove : MonoBehaviour
 
         if (col.gameObject.tag == "Health")
         {
-            health += 1;
+            if(health == 4)
+            {
+                score += 1;
+            }
+            else
+            {
+                health += 1;
+            }
+
             Destroy(col.gameObject);
+        }
+
+        if(col.gameObject.tag == "EndLevel")
+        {
+            col.gameObject.GetComponent<EndOfLevel>().complete = true;
         }
     }
 

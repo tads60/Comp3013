@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: c389ce30ad9014b4ba61d4f3f61365e2
+  - enabled: 1
+    path: Assets/Scenes/ForestLevel.unity
+    guid: e27e03f92ce7ceb4aa9be297e33bc370
+  - enabled: 1
+    path: Assets/Scenes/TownLevel.unity
+    guid: 43ebd10985e1cac4eb870b7889188225
   m_configObjects: {}

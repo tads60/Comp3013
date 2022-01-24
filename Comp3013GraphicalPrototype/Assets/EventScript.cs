@@ -21,7 +21,9 @@ public class EventScript : MonoBehaviour
         {
             if(!colourIndicator.activeSelf)
             {
+
                 isColoured = true;
+                PlayerPrefs.SetInt("coloured", 1);
             }
         }
 

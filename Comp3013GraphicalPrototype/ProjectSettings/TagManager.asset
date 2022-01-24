@@ -12,6 +12,7 @@ TagManager:
   - Steps
   - ColourChanger
   - Health
+  - EndLevel
   layers:
   - Default
   - TransparentFX
