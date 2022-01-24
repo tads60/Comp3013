@@ -157,6 +157,12 @@ public class BasicCharMove : MonoBehaviour
         {
             col.gameObject.SetActive(false);
         }
+
+        if (col.gameObject.tag == "Health")
+        {
+            health += 1;
+            Destroy(col.gameObject);
+        }
     }
 
     void colourCheck()

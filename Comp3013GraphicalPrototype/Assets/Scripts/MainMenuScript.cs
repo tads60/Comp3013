@@ -23,7 +23,7 @@ public class MainMenuScript : MonoBehaviour
     }
     public void StartGame()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("TownLevel");
     }
     public void Quit()
     {
