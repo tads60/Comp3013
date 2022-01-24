@@ -180,7 +180,7 @@ public class BasicCharMove : MonoBehaviour
 
     void colourCheck()
     {
-        if (eventSystem.GetComponent<EventScript>().isColoured)
+        if (PlayerPrefs.GetInt("coloured") == 1)
         {
             isColoured = true;
             sprites.sprite = newSprite;

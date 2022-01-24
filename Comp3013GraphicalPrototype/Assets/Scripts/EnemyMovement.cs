@@ -23,7 +23,7 @@ public class EnemyMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        movementModifier = movementModifier / 500;
+        movementModifier = movementModifier / 50;
         player = GameObject.Find("Character");
         eventSystem = GameObject.Find("EventSystem");
         sprites = gameObject.GetComponent<SpriteRenderer>();

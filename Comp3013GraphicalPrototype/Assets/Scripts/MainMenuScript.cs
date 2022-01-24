@@ -31,7 +31,10 @@ public class MainMenuScript : MonoBehaviour
     }
     public void StartGame()
     {
-        SceneManager.LoadScene("TownLevel");
+        //demo
+        SceneManager.LoadScene("CastleLevel");
+        //full
+        //SceneManager.LoadScene("TownLevel");
     }
     public void Quit()
     {

@@ -26,7 +26,10 @@ public class EventScript : MonoBehaviour
                 PlayerPrefs.SetInt("coloured", 1);
             }
         }
-
+        if(Input.GetButtonDown("Cancel"))
+        {
+            Application.Quit();
+        }
     }
 
     public void GameOver()

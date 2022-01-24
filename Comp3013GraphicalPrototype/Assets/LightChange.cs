@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class LightChange : MonoBehaviour
 {
-    private GameObject eventSystem;
     public bool isColoured = false;
     private Light light;
     private Color red = Color.red;
@@ -12,7 +11,6 @@ public class LightChange : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        eventSystem = GameObject.Find("EventSystem");
         light = gameObject.GetComponent<Light>();
     }
 
@@ -27,7 +25,7 @@ public class LightChange : MonoBehaviour
 
     void colourCheck()
     {
-        if (eventSystem.GetComponent<EventScript>().isColoured)
+        if (PlayerPrefs.GetInt("coloured") == 1)
         {
             isColoured = true;
             light.color = red;
