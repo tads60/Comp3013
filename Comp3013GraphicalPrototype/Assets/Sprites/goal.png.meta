@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: 950aac9e645f0364fbcec03c982f1478
+guid: 5b2c0b77babe59c43804c64a8290f6af
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2425770512544288982
-    second: BUTTONS!_0
+      213: -1314923570169941335
+    second: goal_0
   - first:
-      213: 6066010108364075785
-    second: BUTTONS!_1
-  - first:
-      213: 3210141628268727834
-    second: BUTTONS!_2
-  - first:
-      213: -8351610113589030997
-    second: BUTTONS!_3
-  - first:
-      213: -2968367006513789331
-    second: BUTTONS!_4
-  - first:
-      213: 5583416655491988687
-    second: BUTTONS!_5
+      213: 1989471369053438392
+    second: goal_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -133,13 +121,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BUTTONS!_0
+      name: goal_0
       rect:
         serializedVersion: 2
-        x: 104
-        y: 851
-        width: 596
-        height: 144
+        x: 47
+        y: 77
+        width: 533
+        height: 937
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,20 +135,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d0d1dacd611aa120800000000000000
-      internalID: 2425770512544288982
+      spriteID: 9a27b3dcaf370cde0800000000000000
+      internalID: -1314923570169941335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BUTTONS!_1
+      name: goal_1
       rect:
         serializedVersion: 2
-        x: 1096
-        y: 838
-        width: 595
-        height: 144
+        x: 776
+        y: 73
+        width: 531
+        height: 938
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,92 +156,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90338f0fd0cce2450800000000000000
-      internalID: 6066010108364075785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BUTTONS!_2
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 673
-        width: 595
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1ec6a78dc6bc8c20800000000000000
-      internalID: 3210141628268727834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BUTTONS!_3
-      rect:
-        serializedVersion: 2
-        x: 1096
-        y: 659
-        width: 595
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: baf47f4b9de191c80800000000000000
-      internalID: -8351610113589030997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BUTTONS!_4
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 397
-        width: 1069
-        height: 239
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6681c54fed3ec6d0800000000000000
-      internalID: -2968367006513789331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BUTTONS!_5
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 107
-        width: 1079
-        height: 249
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fcc799fadd74c7d40800000000000000
-      internalID: 5583416655491988687
+      spriteID: 8b18d336ba50c9b10800000000000000
+      internalID: 1989471369053438392
       vertices: []
       indices: 
       edges: []
